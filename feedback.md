@@ -4,7 +4,7 @@ CS1653 - HW1 Feedback
 |-----------------------------------------------|:---------------:|:-------------:|
 | Decrypting ciphertext							| 5				  | **5** |
 | Clear, well-written README 					| 2				  | **2** |
-| Full Kasiski examination (on paper or code)	| 3				  | **3** |
+| Throughout examination of the ciphertext	| 3				  | **3** |
 
 **Total:** 10/10
 
